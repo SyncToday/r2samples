@@ -11,17 +11,17 @@
 // (This is the original behaviour of ProjectScaffold prior to multi project support)
 let referenceBinaries = []
 // Web site location for the generated documentation
-let website = "/##ProjectName##"
+let website = "/SyncToday2015R2.Samples"
 
-let githubLink = "http://github.com/##GitHome##/##GitName##"
+let githubLink = "http://github.com/SyncToday/r2samples"
 
 // Specify more information about your project
 let info =
-  [ "project-name", "##ProjectName##"
-    "project-author", "##Author##"
-    "project-summary", "##Summary##"
+  [ "project-name", "SyncToday2015R2.Samples"
+    "project-author", "David Podhola"
+    "project-summary", "Sample usage of Sync.Today 2015 R2"
     "project-github", githubLink
-    "project-nuget", "http://nuget.org/packages/##ProjectName##" ]
+    "project-nuget", "http://nuget.org/packages/SyncToday2015R2.Samples" ]
 
 // --------------------------------------------------------------------------------------
 // For typical project, no changes are needed below

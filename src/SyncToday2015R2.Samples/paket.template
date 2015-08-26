@@ -1,0 +1,23 @@
+type project
+owners
+    David Podhola
+authors 
+    David Podhola
+projectUrl
+    http://github.com/SyncToday/SyncToday2015R2.Samples
+iconUrl
+    https://raw.githubusercontent.com/SyncToday/SyncToday2015R2.Samples/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/SyncToday/SyncToday2015R2.Samples/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    sync
+summary
+    Sample usage of Sync.Today 2015 R2
+description
+    Sample usage of Sync.Today 2015 R2
+
+
